@@ -4,7 +4,7 @@ var VIDEO_FILES = [
 
  "video/sweatblock-deoderant.mp4",
 
-  "video/golden-golen.mp4",
+  "video/golden-golen1.mp4",
   
   "video/garnik-unboxing.mp4",
 
