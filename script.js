@@ -1,6 +1,6 @@
 var VIDEO_FILES = [
 
-  "video/closet-youtube-snap.mp4",
+  "video/closet-youtube-snap-2.mp4",
 
  "video/sweatblock-deoderant.mp4",
 
