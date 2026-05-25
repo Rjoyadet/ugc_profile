@@ -13,25 +13,19 @@ var VIDEO_FILES = [
 var PHOTO_FILES = [
 
   "photos/ice-breakers.jpg",
-  "photos/Screenshot_20260414_153454_Gallery.jpg",
-  "photos/Screenshot_20260414_150747_Gallery.jpg",
-  "photos/Screenshot_20260414_150847_Gallery.jpg",
-
   "photos/Screenshot_20260414_153346_Gallery.jpg",
  
   "photos/vitamin-b-12.jpg",
-  "photos/Screenshot_20260414_150959_Gallery.jpg",
-  "photos/Screenshot_20260414_153521_Gallery.jpg",
+
   "photos/rio-cream-side.jpg",
   "photos/Screenshot_20260414_151010_Gallery.jpg",
-  "photos/Screenshot_20260414_153506_Gallery.jpg",
-  "photos/Screenshot_20260414_153400_Gallery.jpg",
+  "photos/touchup-paint.jpg",
+  
 
   "photos/Screenshot_20260414_150708_Gallery.jpg",
   "photos/Screenshot_20260414_153253_Gallery.jpg",
 
-  "photos/Screenshot_20260414_153330_Gallery.jpg",
-  "photos/vitamin-b-12-blue.jpg"
+
 ];
 
 function filenameFromPath(path) {
